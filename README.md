@@ -22,6 +22,8 @@ Lista de instalação dos softwares necessários para criação dos ambientes de
 
 - [ ] [NoSqlBooster](https://nosqlbooster.com/downloads)
 
+- [ ] [CORS](https://chrome.google.com/webstore/detail/cross-domain-cors/mjhpgnbimicffchbodmgfnemoghjakai)
+
 ---
 
 ## Docker
